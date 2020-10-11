@@ -1,6 +1,6 @@
 #!/bin/bash
-sudo ls -ltr
-sudo ls -ll
-sudo ls -la
+ls -ltr
+ls -ll
+ls -la
 ifconfig
 
