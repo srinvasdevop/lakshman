@@ -1,4 +1,4 @@
 #!/bin/bash
-ls -ltr
-ls -ll
-ls -la
+sudo ls -ltr
+sudo ls -ll
+sudo ls -la
